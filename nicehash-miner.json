@@ -39,7 +39,7 @@
   "container": {
     "type": "DOCKER",
     "docker": {
-      "image": "idstudios/nicehash-miner:latest",
+      "image": "bonnithedog/nicehash-miner:latest",
       "network": "BRIDGE",
       "privileged": false,
       "forcePullImage": true
