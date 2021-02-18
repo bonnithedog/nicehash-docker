@@ -1,4 +1,7 @@
 #!/bin/bash
 
-docker build -t idstudios/nicehash-miner:latest .
-docker push idstudios/nicehash-miner:latest
+#docker build -t idstudios/nicehash-miner:latest .
+#docker push idstudios/nicehash-miner:latest
+
+docker build -t bonnithedog/nicehash-miner:latest .
+docker push bonnithedog/nicehash-miner:latest
