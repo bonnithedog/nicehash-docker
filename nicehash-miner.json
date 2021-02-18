@@ -6,7 +6,7 @@
   "user": null,
   "env": {
     "BTC_PAYMENT_ADDRESS": "3JzrT476DayU9Xkcx3ezUA836YQX8gDtmb",
-    "BTC_THREADS": "4",
+    "BTC_THREADS": "10",
     "BTC_SERVER": "equihash.usa.nicehash.com:3357"
   },
   "constraints": [
