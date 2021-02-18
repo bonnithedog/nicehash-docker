@@ -8,7 +8,7 @@ if [ -z $BTC_PAYMENT_ADDRESS ]; then
   BTC_PAYMENT_ADDRESS=3JzrT476DayU9Xkcx3ezUA836YQX8gDtmb
 fi 
 
-[ -z $BTC_THREADS ] && BTC_THREADS=4
+[ -z $BTC_THREADS ] && BTC_THREADS=10
 [ -z $BTC_WORKER_ID ] && BTC_WORKER_ID=`hostname`
 [ -z $BTC_SERVER ] && BTC_SERVER=equihash.eu.nicehash.com:3357
 
